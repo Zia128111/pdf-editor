@@ -1,12 +1,10 @@
 {
   "name": "pdf-editor-mvp",
   "version": "0.1.0",
-  "description": "Advanced PDF editor with OCR and collaboration",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -20,7 +18,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.4.0",
-    "terser": "^5.26.0"
+    "vite": "^4.4.0"
   }
 }
